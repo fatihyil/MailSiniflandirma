@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\bin\Debug\Odevler_MailAyristirma.exe.config
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\bin\Debug\Odevler_MailAyristirma.exe
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\bin\Debug\Odevler_MailAyristirma.pdb
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.Form1.resources
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.exe
+C:\Users\Fatih\Desktop\Odevler_MailAyristirma\Odevler_MailAyristirma\obj\Debug\Odevler_MailAyristirma.pdb
